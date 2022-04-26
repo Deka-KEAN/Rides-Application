@@ -1,0 +1,31 @@
+.header{
+  background-color: black;
+  width:99%;
+  padding:0.5%;
+  display:flex;
+}
+h1,h2{
+  color:white;
+}
+h1{
+  margin-left: 2%;
+}
+.rightside{
+  margin-left:70%;
+  margin-top:1.7%;
+}
+img{
+  border-radius: 50%;
+  height:50px;
+  width:50px;
+  margin-top: 1%;
+  margin-left: 2%;
+  float:right;
+}
+button{
+  color:white;
+  font-size:1.5em;
+  margin-right:3%;
+  background: none;
+  border: none;
+}
